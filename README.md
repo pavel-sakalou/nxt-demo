@@ -2,7 +2,7 @@
 
 # Fix all tests
 
-# Implement all method
+# Implement all methods
 - ProductEndpoint.removeProduct
 - ProductEndpoint.totalPriceByType
 - ProductEndpoint.getReport
