@@ -1,21 +1,12 @@
-## Micronaut 4.0.3 Documentation
+## Tasks
 
-- [User Guide](https://docs.micronaut.io/4.0.3/guide/index.html)
-- [API Reference](https://docs.micronaut.io/4.0.3/api/index.html)
-- [Configuration Reference](https://docs.micronaut.io/4.0.3/guide/configurationreference.html)
-- [Micronaut Guides](https://guides.micronaut.io/index.html)
----
+# Fix all tests
 
-- [Shadow Gradle Plugin](https://plugins.gradle.org/plugin/com.github.johnrengelman.shadow)
-- [Micronaut Gradle Plugin documentation](https://micronaut-projects.github.io/micronaut-gradle-plugin/latest/)
-- [GraalVM Gradle Plugin documentation](https://graalvm.github.io/native-build-tools/latest/gradle-plugin.html)
-## Feature micronaut-aot documentation
+# Implement all method
+ - ProductEndpoint.removeProduct
+ - ProductEndpoint.totalPriceByType
+ - ProductEndpoint.getReport
 
-- [Micronaut AOT documentation](https://micronaut-projects.github.io/micronaut-aot/latest/guide/)
+# Add unit tests for all ProductEndpoint's methods 
 
-
-## Feature serialization-jackson documentation
-
-- [Micronaut Serialization Jackson Core documentation](https://micronaut-projects.github.io/micronaut-serialization/latest/guide/)
-
-
+# Add new product type - "Ginger"
