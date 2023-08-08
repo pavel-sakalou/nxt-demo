@@ -2,6 +2,11 @@
 
 # Fix all tests
 
+# Add validation
+- product name is mandatory
+- product price >= 5
+- product name is unique 
+
 # Implement all methods
 - ProductEndpoint.removeProduct
 - ProductEndpoint.totalPriceByType
